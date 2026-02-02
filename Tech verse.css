@@ -320,3 +320,12 @@
     max-width: 200px; 
     margin: 0; 
 }
+
+.meet h1{
+        text-align: center;
+    color: black;
+        font-weight: 700;
+    font-size: 30px;
+    padding: 20px;
+}
+
